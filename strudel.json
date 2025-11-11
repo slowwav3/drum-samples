@@ -1,0 +1,5 @@
+{
+"_base": "https://raw.githubusercontent.com/slowwav3/drum-samples/main/",
+"fbd": ["bd01.wav","bd02.wav","bd03.wav","bd04.wav","bd05.wav","bd06.wav","bd07.wav"]
+"ffk": ["kick01.wav","kick02.wav","kick03.wav","kick04.wav","kick05.wav","kick06.wav","kick07.wav"]
+}
